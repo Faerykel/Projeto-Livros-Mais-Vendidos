@@ -1,0 +1,26 @@
+[
+    {
+        "title": "A Guerra dos Tronos",
+        "author": "George R.R. Martin",
+        "year": 1996,
+        "copies_sold": 90000000
+    },
+    {
+        "title": "O Senhor dos Anéis",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "copies_sold": 150000000
+    },
+    {
+        "title": "O Código Da Vinci",
+        "author": "Dan Brown",
+        "year": 2003,
+        "copies_sold": 80000000
+    },
+    {
+        "title": "Harry Potter e a Pedra Filosofal",
+        "author": "J.K. Rowling",
+        "year": 1997,
+        "copies_sold": 120000000
+    }
+]
